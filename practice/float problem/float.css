@@ -1,0 +1,58 @@
+*{
+    box-sizing: border-box;
+}
+h1{
+    text-align: center;
+}
+.float1{
+    border: 20px, solid, black;
+    background-color: cadetblue;
+    padding: 15px;
+    text-align: justify;
+    border-radius: 5px;
+}
+.float2{
+    border: 20px, solid, black;
+    background-color: cadetblue;
+    padding: 15px; 
+    text-align: justify;
+    border-radius: 5px;
+}
+.float3{
+    border: 20px, solid, black;
+    background-color: cadetblue;
+    padding: 15px;
+    text-align: justify;
+    border-radius: 5px;
+}
+.float4{
+    border: 20px, solid, black;
+    background-color: cadetblue;
+    padding: 15px;
+    text-align: justify;
+    border-radius: 5px;
+}
+.image1{
+    height: 80px;
+    width: 80px;
+    float: left;
+    padding-right: 10px;
+}
+.image2{
+    height: 80px;
+    width: 80px;
+    float: right;
+    padding-left: 10px;
+}
+.image3{
+    height: 80px;
+    width: 80px;
+    float: left;
+    padding-right: 10px;
+}
+.image4{
+    height: 80px;
+    width: 80px;
+    float: right;
+    padding-left: 10px;
+}
